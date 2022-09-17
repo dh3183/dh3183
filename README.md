@@ -1,6 +1,6 @@
 ## Hi there! 😊✨
 
-I'm an computer engineering student.🐥 @dh3183<br>
+I'm an computer engineering student.🐥<br>
 I’m currently learning Swift and SwiftUI
 
 
