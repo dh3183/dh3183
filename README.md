@@ -1,7 +1,7 @@
 ## Hi there! 😊✨
 
 I'm a Computer Engineering Student.🐥<br>
-Currently I'm Learning Swift, Swift UI, and interested in UIKit + RxSwift and Swift UI + Combine combination based Reactive Programming.
+Currently I'm Learning Swift and Swift UI, and interested in UIKit + RxSwift and Swift UI + Combine combination based Reactive Programming.
 
 Preparing to launch App Store : 투둑투둑
 
