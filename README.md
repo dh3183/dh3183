@@ -1,7 +1,7 @@
 ## Hi there! 😊✨
 
 I'm an Computer Engineering Student.🐥<br>
-I’m currently learning Swift, Swift UI
+I’m currently learning Swift, Swift UI, Combine and Rx Swift are also interested!
 
 Preparing to launch App Store : 투둑투둑
 
