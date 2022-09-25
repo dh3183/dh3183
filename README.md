@@ -1,7 +1,7 @@
 ## Hi there! 😊✨
 
 I'm a Computer Engineering Student.🐥<br>
-Currently I'm Learning Swift : )
+Currently I'm Learning Swift, SwiftUI : )
 
 Preparing to launch App Store : 투둑투둑
 
