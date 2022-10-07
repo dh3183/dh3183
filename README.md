@@ -1,6 +1,6 @@
 ## Hi there! 😊✨
 
-I'm a Computer Engineering Student.🐥<br>
+I'm a Computer Engineering Student. 🐥<br>
 Currently I'm Learning Swift and SwiftUI.<br>
 I'm interested in not only Programming but also design, so I am also studying UI/UX : )
 
