@@ -1,8 +1,8 @@
 ## Hi there! 😊✨
 
 I'm a Computer Engineering Student. 🐥<br>
-Currently I'm Learning Swift and SwiftUI.<br>
-I'm interested in not only Programming but also design, so I am also studying UI/UX : )
+Currently, I've been learning Swit and SwiftUI.<br>
+And I am into programming and designing, thus I am now studying  UI/UX : )
 
 Preparing to launch App Store : 투둑투둑
 
