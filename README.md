@@ -9,11 +9,11 @@ Preparing to launch App Store : 투둑투둑
 <h3>📱 iOS Tech Stack 📱</h3>
 
 <p>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F15137?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCC36?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 <h3>🛠 UI/UX Tools 🛠</h3>
 <p>
-<img src="https://img.shields.io/badge/Figma-F05138?style=for-the-badge&logo=Figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Adobe XD-B7178C?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-ED6530?style=for-the-badge&logo=Figma&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Sketch-FCD32D?style=for-the-badge&logo=Sketch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe XD-470137?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
 </p>
