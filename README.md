@@ -9,7 +9,7 @@ Preparing to launch App Store : 투둑투둑
 <h3>📱 iOS Tech Stack 📱</h3>
 
 <p>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-186EE2?style=for-the-badge&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F15137?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D52DB?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCC36?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-186EE2?style=for-the-badge&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F15137?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D52DB?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 <h3>🛠 UI/UX Tools 🛠</h3>
 <p>
