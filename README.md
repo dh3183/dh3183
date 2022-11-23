@@ -2,7 +2,7 @@
 
 I'm a computer engineering major. 🐥<br>
 Currently, I've been learning Swift and SwiftUI.<br>
-And I am into programming and designing, thus I am now studying  Design : )
+And I am into programming and UI/UX, thus I am now studying  UI/UX : )
 
 Preparing to launch App Store : 투둑투둑
 
@@ -10,11 +10,6 @@ Preparing to launch App Store : 투둑투둑
 
 <p>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-186EE2?style=for-the-badge&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F15137?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D52DB?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
-<h3>🧑🏻‍🎨 Design Skills 🧑🏻‍🎨</h3>
-<p>
-<img src="https://img.shields.io/badge/Photoshop-33a7ff?style=for-the-badge&logo=Adobe photoshop&logoColor=white"/> 
-<img src="https://img.shields.io/badge/illustrator-ff9901?style=for-the-badge&logo=Adobe illustrator&logoColor=white"/> 
 </p>
 <h3>🛠 UI/UX Tools 🛠</h3>
 <p>
