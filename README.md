@@ -2,7 +2,7 @@
 
 I'm a computer engineering major. 🐥<br>
 Currently, I've been learning Swift and SwiftUI.<br>
-And I am into programming and UI/UX, thus I am now studying  UI/UX : )
+And I am into programming and design, thus I am now studying design : )
 
 Preparing to launch App Store : 투둑투둑
 
