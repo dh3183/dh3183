@@ -10,7 +10,7 @@ And I am into programming and design, thus I am now studying design : )
 </p>
 <h3>🛠 Etc Tech Stack 🛠</h3>
 <p>
-<img src="https://img.shields.io/badge/java-D04E3B?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-D04E3B?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 <h3>🧑🏻‍🎨 UI/UX Tools 🧑🏻‍🎨</h3>
 <p>
