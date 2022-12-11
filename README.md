@@ -18,7 +18,6 @@ And I am into programming and design, thus I am now studying design : )
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/XD-ff61f6?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-ED6530?style=for-the-badge&logo=Figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Sketch-FCD32D?style=for-the-badge&logo=Sketch&logoColor=white"/> 
 </p>
 
 ![Elbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh3183&show_icons=true&theme=github_dark)
