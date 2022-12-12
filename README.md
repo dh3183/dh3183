@@ -2,7 +2,7 @@
   
 ## 🎬 I'll be waiting for the happy ending 🎬
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdh3183&count_bg=%230E487C&title_bg=%23A5B8D1&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdh3183&count_bg=%230E487C&title_bg=%23A5B8D1&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/dh3183)
   
 I'm a computer engineering major. 🐥<br>
 Currently, I've been learning Swift and SwiftUI.<br>
