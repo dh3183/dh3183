@@ -8,7 +8,7 @@
   
 I'm a computer engineering major. 🐥<br>
 Currently, I've been learning Swift and SwiftUI.<br>
-And I am into programming and design, thus I am now studying design : )
+And I am into programming and designing, thus I am now studying design : )
 
 ### 📱 iOS Tech Stack 📱
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-186EE2?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F15137?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D52DB?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
