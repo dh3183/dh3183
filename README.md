@@ -10,13 +10,13 @@ I'm a computer engineering major. 🐥<br>
 Currently, I've been learning Swift and SwiftUI.<br>
 And I am into programming and design, thus I am now studying design : )
 
-#### 📱 iOS Tech Stack 📱
+### 📱 iOS Tech Stack 📱
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-186EE2?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F15137?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D52DB?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
 
-#### 🛠 ETC Tech Stack 🛠
+### 🛠 ETC Tech Stack 🛠
 <img src="https://img.shields.io/badge/java-D04E3B?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
-#### 🎨 Design Tools 🎨
+### 🎨 Design Tools 🎨
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/XD-ff61f6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-ED6530?style=flat-square&logo=Figma&logoColor=white"/> 
 
 ![Elbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh3183&show_icons=true&theme=github_dark)
