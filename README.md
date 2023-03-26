@@ -13,6 +13,7 @@ And I am into programming and designing, thus I am now studying design : )
 ### 📱 iOS Tech Stack 📱
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swift-F15137?style=flat-square&logo=Swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>   
 <img src="https://img.shields.io/badge/SwiftUI-0D52DB?style=flat-square&logo=Swift&logoColor=white"/><br> 
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
@@ -29,6 +30,3 @@ And I am into programming and designing, thus I am now studying design : )
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-
-### 🎨 Design Tools 🎨
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/XD-ff61f6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-ED6530?style=flat-square&logo=Figma&logoColor=white"/>
