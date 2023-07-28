@@ -4,8 +4,6 @@
   
 <a href="https://www.youtube.com/watch?v=IUT1qAhMY4w">![2698881_flji5g335nkej0](https://user-images.githubusercontent.com/83414134/207082316-bd9da42c-8eab-4b65-81bc-77200798794d.gif)</a>
   
-[![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdh3183&count_bg=%230E487C&title_bg=%23A5B8D1&icon=smugmug.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=true)](https://github.com/dh3183) <a href="https://velog.io/@elbin"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/elbin_98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
 I'm a computer engineering major. 🐥<br>
 Currently, I've been learning Swift and SwiftUI.<br>
 And I am into programming and designing, thus I am now studying design : )
