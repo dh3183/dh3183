@@ -3,10 +3,6 @@
 ## 🎬 I'll be waiting for the happy ending 🎬
   
 <a href="https://www.youtube.com/watch?v=IUT1qAhMY4w">![2698881_flji5g335nkej0](https://user-images.githubusercontent.com/83414134/207082316-bd9da42c-8eab-4b65-81bc-77200798794d.gif)</a>
-  
-I'm a computer engineering major. 🐥<br>
-Currently, I've been learning Swift and SwiftUI.<br>
-And I am into programming and designing, thus I am now studying design : )
 
 ### 📱 iOS Tech Stack 📱
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> 
